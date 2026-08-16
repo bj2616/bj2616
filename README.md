@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-# ¡Hola! Soy Juan Ignacio Balladares 👋
+# Hola a todos y a todas
 
-Estudiante avanzado de la **Licenciatura en Ciencias de la Atmósfera (UBA)**, con foco en meteorología, radiación solar y análisis de datos aplicado. Combino la formación científica con programación en Python y experiencia docente, y busco orientar mi carrera hacia proyectos de **energías renovables** y **análisis ambiental**.
+Estudiante de  **Licenciatura en Ciencias de la Atmósfera (UBA)**, con foco en meteorología, radiación solar y análisis de datos aplicado. Combino la formación científica con programación en Python y experiencia docente, y busco orientar mi carrera hacia proyectos de **energías renovables** y **análisis climatológico**.
 
 ## 🔭 Actualmente
 
-- 🎓 Ayudante de Segunda (Programa UBA XXII) — dicto el curso *"Introducción a la Programación con Python"* en la Facultad de Ciencias Exactas y Naturales (UBA).
+- 🎓 Ayudante de Segunda (Programa UBA XXII) — dicto el curso *"Introducción a la Programación con Python"* de la Facultad de Ciencias Exactas y Naturales (UBA).
 - 🌊 Integrante del proyecto de extensión **"Anticipando la crecida"** (PSE), trabajando en herramientas de alerta temprana para inundaciones en la cuenca Matanza-Riachuelo.
 - 📚 Docente particular de ciencias exactas desde 2018.
 
@@ -22,8 +22,10 @@ Estudiante avanzado de la **Licenciatura en Ciencias de la Atmósfera (UBA)**, c
 | Repositorio | Descripción |
 |---|---|
 | [`python-uba-xxii`](#) | Material del curso de Python que dicto en UBA XXII: clases, ejercicios y soluciones. |
+<!--
 | [`meteorologia-python`](#) | Análisis de datos meteorológicos (temperatura, precipitación, viento) con Python. |
 | [`radiacion-solar`](#) | Herramientas para el cálculo de geometría solar e irradiancia. |
+-->
 | [`pronostico-cuenca-matanza`](#) | Proyecto personal: sistema experimental de pronóstico para la cuenca Matanza-Riachuelo. |
 
 *(Voy a ir actualizando esta tabla a medida que suba cada repositorio.)*
